@@ -1,4 +1,4 @@
-(defproject lein-karma-test "0.1.0"
+(defproject lein-karma-test "0.1.1-SNAPSHOT"
   :description "A very simple Leiningen plugin for executing Karma test runner"
   :url "https://github.com/loganlinn/lein-karma"
   :license {:name "Eclipse Public License"
